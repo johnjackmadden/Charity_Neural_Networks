@@ -7,7 +7,7 @@
 - The variables that are considered features for my model are the Application_Type, Affiliation, Classification, Organization, Status, Income, Speclai_Considerations, and Ask_Amt. These variables were encoded and then split into training sets for the data set 
 - The variables that were removed from my data were the EIN and NAME tags from the data set
 ### Model Training
-- How many neurons and why
+-  For my spesific model I used two hidden layers with 8 and 5 neurons respectively. This number was increased to 10 and 8 in order to increase the accuracy enough to pass the 75% accuracy mark.
 - We were succesfully able to meet the target critera of above a 75% accuracy rating
 - THe steps that I took to increase the model accuracy was to increase the nodes and to add addtional epochs
 ## Summary
